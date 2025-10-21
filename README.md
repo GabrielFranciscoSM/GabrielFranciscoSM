@@ -74,5 +74,3 @@ Dynamic cards — useful for recruiters to quickly see activity and language bre
 - Embed screenshots/GIFs for top projects (host in repo or on portfolio).  
 - Polished one-line descriptions and metrics for each featured repo (I can generate them).  
 - Add recruiter-style checklist (what to look at on the portfolio) and badges (Open to work, top tools).
-
-Made to be recruiter-friendly and portfolio-forward — tell me which enhancement you want first and I’ll update the README.md accordingly or push it to your repo for you.
