@@ -3,7 +3,7 @@
 > **The intersection of Mathematical Precision and Agentic Intelligence.**
 > I don't just build chatbots; I architect production-ready agentic ecosystems. With a Double Degree in **Mathematics & Computer Engineering**, I specialize in bridging the gap between theoretical modeling and high-performance, observable AI infrastructure.
 
-[**🌐 Portfolio & CV**](https://gabrielfranciscosm.github.io/mycv/) | [**📧 Email**](mailto:gabrielfranciscosm@gmail.com) | [**Linked-In**](https://www.google.com/search?q=https://www.linkedin.com/in/gabrielfrancisco-sm/)
+[**🌐 Portfolio & CV**](https://gabrielfranciscosm.github.io/mycv/) | [**📧 Email**](mailto:gabrielfranciscosm@gmail.com) | [**Linked-In**](www.linkedin.com/in/gabriel-sánchez-muñoz-756b06323)
 
 -----
 
