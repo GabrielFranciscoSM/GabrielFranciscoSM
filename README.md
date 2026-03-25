@@ -46,7 +46,6 @@ This isn't a simple wrapper. It’s a stateful, monitored, and self-hosted envir
 ## 📂 Other Strategic Projects
 
   * **[rumorflow](https://github.com/GabrielFranciscoSM/rumorflow)** – Modeling rumor propagation through conversational graphs (Mathematical focus).
-  * **[chatbotIACeprud](https://github.com/GabrielFranciscoSM/chatboitIAceprud)** – Iterative experiments with modern inference backends and conversational UX.
   * **[MyCV](https://github.com/GabrielFranciscoSM/MyCV)** – Automated portfolio infrastructure designed for recruiter transparency.
 
 -----
