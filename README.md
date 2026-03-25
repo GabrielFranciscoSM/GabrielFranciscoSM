@@ -1,76 +1,72 @@
-# Hi, I'm Gabriel Francisco 👋
+# 🧬 Gabriel Francisco | AI & Systems Engineer
 
-> Double-degree student in Mathematics and Computer Engineering — I combine mathematical rigor with systems engineering to build intelligent, reliable software. I’m passionate about AI agents and machine learning, especially conversational systems and agent stacks that make real-world education and tooling better.
+> **The intersection of Mathematical Precision and Agentic Intelligence.**
+> I don't just build chatbots; I architect production-ready agentic ecosystems. With a Double Degree in **Mathematics & Computer Engineering**, I specialize in bridging the gap between theoretical modeling and high-performance, observable AI infrastructure.
 
----
+[**🌐 Portfolio & CV**](https://gabrielfranciscosm.github.io/mycv/) | [**📧 Email**](mailto:gabrielfranciscosm@gmail.com) | [**Linked-In**](https://www.google.com/search?q=https://www.linkedin.com/in/gabrielfrancisco-sm/)
 
-## 🌐 Portfolio (Primary)
-My portfolio is the best place to see my work, demos, and CV — I prioritize it for recruiters and collaborators.
+-----
 
-Website / CV: https://gabrielfranciscosm.github.io/mycv/  
-(Featured: curated project highlights, screenshots, demos, and a downloadable CV)
+## 🏆 Featured: The Educational Agent Ecosystem (TFG)
 
-If you’re evaluating candidates, start with the portfolio — it contains polished demos, metrics, and the most relevant context for each project.
+*A full-stack demonstration of "Production-First" AI Engineering.*
 
----
+This isn't a simple wrapper. It’s a stateful, monitored, and self-hosted environment designed to scale educational interactions.
 
-## 🎯 Snapshot
-- Current status: Double degree student (Mathematics & Computer Engineering)  
-- Focus: AI agents, machine learning, applied NLP, conversational systems, developer tooling  
-- Current internship: Research & Development intern at UGR — building an educational chatbot
+  * **🧠 Stateful Multi-Agent Logic:** Orchestrated with **LangGraph** for complex reasoning paths and **Qdrant** for high-performance RAG.
+  * **🔌 Private AI Infrastructure:** Reduced latency and cost-zero scaling by self-hosting via **vLLM** and **Ollama**.
+  * **📊 Enterprise Observability:** Implemented a full **Grafana/Prometheus/Loki** stack to monitor agent performance and log health in real-time.
+  * **🏗️ Modern DevOps:** Built with **FastAPI** & **Vite**, secured with **pre-commit** hooks, and deployed via **GitHub Actions CI/CD**.
 
----
+👉 **[Deep Dive into TFG-Chatbot](https://github.com/GabrielFranciscoSM/TFG-Chatbot)**
 
-## 🧭 Recruiter-friendly Summary
-- Strong theoretical background (mathematics) combined with hands-on engineering (computer engineering)  
-- Practical experience building chatbots, agent experiments, and ML tooling during coursework and internship  
-- Portfolio-first approach: live demos, metrics, and a downloadable CV to speed hiring decisions
+-----
 
----
+## 💼 Professional Experience
 
-## 🧰 Top skills & tools
-- Languages: C++, Python  
-- Agent / ML tooling: LangChain, LangGraph, vLLM, Ollama  
-- Backend & APIs: FastAPI  
-- Dev & infra: Podman / Docker, GitHub, CI/CD  
-- Data & analysis: RStudio  
-- Other: experiment design for ML, evaluation of agent behavior
+  * **Intern Researcher @ Loomis AI Hub & Fundación IA Granada**
+      * *Focus:* Transforming corporate challenges into AI solutions. Researching state-of-the-art LLM implementations for real-world business logic.
+  * **R\&D Intern @ UGR (University of Granada)**
+      * *Focus:* Architecting LLM-driven educational tools focused on automated student evaluation and pedagogical support.
 
----
+-----
 
-## ⭐ Featured projects
-(Quick links — full project pages and demos are on my portfolio.)
+## 🛠️ The Tech Stack
 
-- [chatbot-tfg](https://github.com/GabrielFranciscoSM/chatbot-tfg) — TFG / capstone chatbot focused on educational interactions and evaluation.  
-- [chatboitIAceprud](https://github.com/GabrielFranciscoSM/chatboitIAceprud) — Conversational agent experiments integrating modern inference backends.  
-- [rumorflow](https://github.com/GabrielFranciscoSM/rumorflow) — Prototype exploring conversational flow and rumor propagation modeling.  
-- [practicas-DAI](https://github.com/GabrielFranciscoSM/practicas-DAI) — Practical Distributed AI assignments and mini-projects.  
-- [MyCV](https://github.com/GabrielFranciscoSM/MyCV) — Source and assets for my online CV / portfolio.
+| Domain | Expertise |
+| :--- | :--- |
+| **AI / Agentic** | LangGraph, LangChain, RAG (Qdrant), vLLM, Ollama |
+| **Engineering** | **Python** (Expert), **C++** (Advanced), **FastAPI**, Pydantic |
+| **Observability** | Grafana, Prometheus, Loki, Promtail |
+| **Infrastructure** | Docker/Podman, CI/CD (GitHub Actions), Linux SysAdmin |
+| **Theory** | Statistical Modeling, Optimization, Experiment Design |
 
----
+-----
 
-## 📈 GitHub stats & languages
-Dynamic cards — useful for recruiters to quickly see activity and language breakdown.
+## 📂 Other Strategic Projects
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFranciscoSM&show_icons=true&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFranciscoSM&layout=compact&theme=tokyonight)
+  * **[rumorflow](https://github.com/GabrielFranciscoSM/rumorflow)** – Modeling rumor propagation through conversational graphs (Mathematical focus).
+  * **[chatbotIACeprud](https://github.com/GabrielFranciscoSM/chatboitIAceprud)** – Iterative experiments with modern inference backends and conversational UX.
+  * **[MyCV](https://github.com/GabrielFranciscoSM/MyCV)** – Automated portfolio infrastructure designed for recruiter transparency.
 
----
+-----
 
-## 📚 Education & Experience
-- Double degree: Mathematics + Computer Engineering — combining theory with system-building practice.  
-- Internship (UGR): Developed an educational chatbot used for teaching support and interactive exercises.
+## 📈 Impact & Logic
 
----
+-----
 
-## 📫 Contact & Portfolio
-- CV / Portfolio (primary): https://gabrielfranciscosm.github.io/mycv/  
-- Email: gabrielfranciscosm@gmail.com  
-- Location: Spain
+## 🎓 My Philosophy: "Agentic Synergy"
 
----
+I believe the future of software isn't just "writing code," but building systems that **reason**. My approach combines:
 
-## ✅ Next enhancement suggestions (pick one)
-- Embed screenshots/GIFs for top projects (host in repo or on portfolio).  
-- Polished one-line descriptions and metrics for each featured repo (I can generate them).  
-- Add recruiter-style checklist (what to look at on the portfolio) and badges (Open to work, top tools).
+1.  **Mathematical Rigor:** Deeply understanding the *why* behind model behavior.
+2.  **Systems Engineering:** Ensuring the *how* is scalable, private, and observable.
+3.  **Human Focus:** Making AI a tool that actually improves education and business.
+
+-----
+
+### ⚡ Quick View for Recruiters
+
+  * **Open to:** AI Engineering roles, Agentic Workflow development, R\&D positions.
+  * **Key Advantage:** Rare hybrid of high-level math and low-level infrastructure.
+  * **Location:** Spain / Remote.
